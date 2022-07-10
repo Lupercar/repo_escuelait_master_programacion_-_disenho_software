@@ -15,3 +15,5 @@ Por linea de comandos:
 - Indicar que add todo lo modificado (git add .)
 - Confirmar cambios (git commit)
 - Subir cambios a github (git push)
+
+Nueva subida
